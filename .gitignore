@@ -1,0 +1,13 @@
+*.sln
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/CppWorkspace/v16/.suo
+.vs/CppWorkspace/v16/Browse.VC.db
+Cpp_HelloWorld/Cpp_HelloWorld.vcxproj
+Cpp_HelloWorld/Cpp_HelloWorld.vcxproj.filters
+Cpp_HelloWorld/Cpp_HelloWorld.vcxproj.user
+Cpp_HelloWorld/.vs/Cpp_HelloWorld/v16/Browse.VC.db
+Cpp_HelloWorld/.vs/Cpp_HelloWorld/v16/Browse.VC.db-shm
+Cpp_HelloWorld/.vs/Cpp_HelloWorld/v16/Browse.VC.db-wal
+Cpp_HelloWorld/.vs/Cpp_HelloWorld/v16/Browse.VC.opendb

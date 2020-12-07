@@ -1,0 +1,10 @@
+1. C++'de implicit bildirimi yok. 
+2. const T*'dan T*'a dönüþüm yok.
+
+int* const p1 = &i; // we can't change the value of p1; const is top-level
+const int* p2 = &i; // we can change p2; const is low-level
+
+3. Gerçek bool türü var.(1 Byte) bool türü ile diðer türler arasýnda gizli tür dönüþümü var. sadece bool türünden pointer türüne tür dönüþümü yok.	
+
+C++ Tür Dönüþtürme Operatörleri
+

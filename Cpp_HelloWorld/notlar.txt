@@ -8,3 +8,5 @@ const int* p2 = &i; // we can change p2; const is low-level
 
 C++ Tür Dönüþtürme Operatörleri
 
+Ders 1 ve 2 izlendi.
+
